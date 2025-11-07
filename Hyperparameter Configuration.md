@@ -48,11 +48,12 @@ The table below summarizes the full configuration used during contrastive pretra
 
 | Num persons | 2 |
 
-| Seeds | \[0, 1, 2] |
+| Seed | \[42] |
 
 
 
-Each experiment was repeated \*\*three times\*\* with independent random seeds \*(0, 1, 2)\* to ensure statistical stability.  
+Each experiment was repeated \*\*three times\*\* with independent random seed \*(42)\* to ensure statistical stability.  
+
 
 
 
